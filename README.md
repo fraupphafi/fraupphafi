@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraupphafi&show_icons=true&theme=dracula)](https://github.com/fraupphafi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraupphafi&show_icons=true&theme=onedark)](https://github.com/fraupphafi/github-readme-stats)
 
 📫 Feel free to contact me: mail@semenova.info
 <!--
